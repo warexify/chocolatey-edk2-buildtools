@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>operator</id>
+    <title>Operator Font</title>
+    <version>1.200</version>
+    <authors>Hoefler</authors>
+    <owners>warexify</owners>
+    <summary>The non-typewriter typewriter face.</summary>
+    <description>The non-typewriter typewriter face.</description>
+    <projectUrl>https://www.typography.com/fonts/operator</projectUrl>
+    <tags>operator monospace opentype ligatures programming font admin</tags>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <packageSourceUrl>https://github.com/warexify/chocolatey-edk2-buildtools/tree/master/manual/operator</packageSourceUrl>
+  </metadata>
+</package>

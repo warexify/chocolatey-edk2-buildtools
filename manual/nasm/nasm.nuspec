@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>nasm</id>
+    <version>2.13.03</version>
+    <title>NetWide Assembler</title>
+    <authors>Simon Tatham and Julian Hall,and is now maintained by a team led by H. Peter Anvin.</authors>
+    <owners>warexify</owners>
+    <licenseUrl>http://repo.or.cz/w/nasm.git/blob_plain/HEAD:/LICENSE</licenseUrl>
+    <projectUrl>http://www.nasm.us/</projectUrl>
+    <docsUrl>http://www.nasm.us/docs.php</docsUrl>
+    <mailingListUrl>http://forum.nasm.us/</mailingListUrl>
+    <bugTrackerUrl>http://bugzilla.nasm.us/</bugTrackerUrl>
+    <projectSourceUrl>http://repo.or.cz/w/nasm.git</projectSourceUrl>
+    <packageSourceUrl>https://github.com/warexify/chocolatey-edk2-buildtools/tree/master/manual/nasm</packageSourceUrl>
+    <iconUrl>http://www.nasm.us/images/nasm.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <summary>the Netwide Assembler: an assembler targetting the Intel x86 series of processors</summary>
+    <description>The Netwide Assembler, NASM, is an 80x86 and x86-64 assembler designed for portability and modularity. It supports a range of object file formats, including Linux and *BSD a.out, ELF, COFF, Mach-O, Microsoft 16-bit OBJ, Win32 and Win64. It will also output plain binary files. Its syntax is designed to be simple and easy to understand, similar to Intel's but less complex. It supports all currently known x86 architectural extensions, and has strong support for macros.</description>
+    <releaseNotes>http://www.nasm.us/xdoc/2.13.03/html/nasmdocc.html</releaseNotes>
+    <copyright>Copyright 1996-2017 the NASM Authors - All rights reserved.</copyright>
+    <tags>nasm assembler compiler admin</tags>
+  </metadata>
+</package>
