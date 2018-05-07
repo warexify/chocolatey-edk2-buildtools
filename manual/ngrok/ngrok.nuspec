@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>ngrok</id>
+    <title>Ngrok</title>
+    <version>2.2.8</version>
+    <authors>Alan Shreve</authors>
+    <owners>warexify</owners>
+    <summary>Introspected tunnels to localhost</summary>
+    <description>Ngrok is a reverse proxy that creates a secure tunnel between from a public endpoint to a locally running web service. ngrok captures and analyzes all traffic over the tunnel for later inspection and replay.</description>
+    <projectUrl>https://ngrok.com/</projectUrl>
+    <projectSourceUrl>https://github.com/inconshreveable/ngrok</projectSourceUrl>
+    <docsUrl>https://ngrok.com/docs</docsUrl>
+    <bugTrackerUrl>https://github.com/inconshreveable/ngrok/issues</bugTrackerUrl>
+    <packageSourceUrl>https://github.com/warexify/chocolatey-edk2-buildtools/tree/master/manual/ngrok</packageSourceUrl>
+    <tags>ngrok</tags>
+    <copyright>inconshreveable</copyright>
+    <licenseUrl>https://github.com/inconshreveable/ngrok/blob/master/LICENSE</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <releaseNotes>Fixing download for Windows platform</releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
