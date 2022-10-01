@@ -3,7 +3,7 @@
   <metadata>
     <id>iasl</id>
     <title>iASL compiler/disassembler</title>
-    <version>2018.03.13</version>
+    <version>2022.03.31</version>
     <authors>Intel Corporation</authors>
     <owners>warexify</owners>
     <summary>iASL: ACPI Source Language Optimizing Compiler and Disassembler</summary>
@@ -34,7 +34,7 @@ Installation directory, by default `/InstallDir: c:\ASL`
     <bugTrackerUrl>https://bugs.acpica.org</bugTrackerUrl>
     <packageSourceUrl>https://github.com/warexify/chocolatey-edk2-buildtools/tree/master/manual/iasl</packageSourceUrl>
     <tags>iasl portable compiler disassembler</tags>
-    <copyright>Copyright © 2018 Intel Corporation. All rights reserved.</copyright>
+    <copyright>Copyright © 2022 Intel Corporation. All rights reserved.</copyright>
     <licenseUrl>https://acpica.org/sites/acpica/files/licensing.txt</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <iconUrl>https://cdn.rawgit.com/warexify/chocolatey-edk2-buildtools/master/icons/iasl.png</iconUrl>
