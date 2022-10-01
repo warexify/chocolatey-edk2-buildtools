@@ -1,8 +1,8 @@
 ﻿$ErrorActionPreference = 'Stop'
 
 $packageName = 'iasl'
-$url = 'https://acpica.org/sites/acpica/files/iasl-win-20180313.zip'
-$checksum = '02374c465534fda60aa9a22d33ad9fe1033d4bd223bbe3f2652cb9bbf78b40e6'
+$url = 'https://acpica.org/sites/acpica/files/iasl-win-20220331.zip'
+$checksum = 'e501c152daf2d40763abaa8f6923e690252bbe4f3f9718d2b20298bca6ccc125'
 $installDir = 'C:\ASL'
 
 $packageArgs = @{
